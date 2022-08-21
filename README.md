@@ -18,7 +18,12 @@ Currently Studying an M.Sc. Complex Systems Modelling at King's College London.
 <br>
 
 <a href="https://github.com/l-dando/math_for_data_science">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=l-dando&repo=math_for_data_science&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=l-dando&repo=math_for_data_science&title_color=0273b9&text_color=e30036&icon_color=0273b9&bg_color=ffffff&border_color=e30036" />
+</a>
+
+<br>
+<a href="https://github.com/l-dando/university_projects">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=l-dando&repo=university_projects&title_color=0273b9&text_color=e30036&icon_color=0273b9&bg_color=ffffff&border_color=e30036" />
 </a>
 
 <br>
@@ -26,18 +31,17 @@ Currently Studying an M.Sc. Complex Systems Modelling at King's College London.
 
 ## 📈 GitHub Stats
 
-<br>
+<a href="https://github.com/l-dando">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=l-dando&custom_title=Luke Dando's GitHub Stats&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=0273b9&text_color=e30036&icon_color=0273b9&bg_color=ffffff&border_color=e30036" alt="Luke's GitHub Stats" />
+</a>
+
 <br>
 
 <a href="https://github.com/l-dando">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-dando&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-dando&title_color=0273b9&text_color=e30036&icon_color=0273b9&bg_color=ffffff&border_color=e30036" />
 </a>
 
 <br>
 <br>
-
-<a href="https://github.com/l-dando">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=l-dando&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Luke's GitHub Stats" />
-</a>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=20:e30036,100:0273b9&height=120&section=footer&animation=fadeIn)
