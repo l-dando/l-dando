@@ -32,7 +32,7 @@ Currently Studying an M.Sc. Complex Systems Modelling at King's College London.
 ## 📈 GitHub Stats
 
 <a href="https://github.com/l-dando">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=l-dando&custom_title=Luke Dando's GitHub Stats&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=0273b9&text_color=e30036&icon_color=0273b9&bg_color=ffffff&border_color=e30036" alt="Luke's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=l-dando&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=0273b9&text_color=e30036&icon_color=0273b9&bg_color=ffffff&border_color=e30036" alt="Luke's GitHub Stats" />
 </a>
 
 <br>
