@@ -5,9 +5,7 @@
 
 ## 📖 Education
 
-B.Sc. Mathematics, 1st with Honours from Brunel University London.
-<br>
-Currently Studying an M.Sc. Complex Systems Modelling at King's College London.
+B.Sc. Mathematics, 1st with Honours from Brunel University London
 
 <br>
 <br>
@@ -31,7 +29,6 @@ Currently Studying an M.Sc. Complex Systems Modelling at King's College London.
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-dando&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
 <br>
 
 <a href="https://github.com/l-dando">
