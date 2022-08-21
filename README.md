@@ -5,7 +5,9 @@
 
 ## 📖 Education
 
-B.Sc. Mathematics, 1st with Honours from Brunel University London
+B.Sc. Mathematics, 1st with Honours from Brunel University London.
+<br>
+Currently Studying an M.Sc. Complex Systems Modelling at King's College London.
 
 <br>
 <br>
