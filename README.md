@@ -20,6 +20,9 @@ Currently Studying an M.Sc. Complex Systems Modelling at King's College London.
 <a href="https://github.com/l-dando/math_for_data_science">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=l-dando&repo=math_for_data_science&title_color=0273b9&text_color=e30036&icon_color=0273b9&bg_color=ffffff&border_color=e30036" />
 </a>
+<a href="https://github.com/l-dando/insurance_policy_pricing">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=l-dando&repo=insurance_policy_pricing&title_color=0273b9&text_color=e30036&icon_color=0273b9&bg_color=ffffff&border_color=e30036" />
+</a>
 
 <br>
 <br>
