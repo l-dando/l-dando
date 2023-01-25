@@ -9,7 +9,7 @@ Currently working has a Graduate Data Analyst at Hastings Direct.
 
 B.Sc. Mathematics, 1st with Honours from Brunel University London.
 <br>
-Currently Studying an M.Sc. Complex Systems Modelling at King's College London.
+PgC in Complex Systems Modelling from King's College London.
 
 <br>
 <br>
