@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lukedando/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lukedando/)
 # Hi there 👋
-Currently working has a Graduate Data Analyst at Hastings Direct.
+Currently working as a Graduate Data Analyst at Hastings Direct.
 
 ## 📖 Education
 
