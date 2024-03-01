@@ -3,13 +3,19 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lukedando/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lukedando/)
 # Hi there 👋
-Currently working as a Graduate Data Analyst at Hastings Direct.
+Currently working as a Graduate Data Scientist at Hastings Direct.
 
 ## 📖 Education
 
 B.Sc. Mathematics, 1st with Honours from Brunel University London.
 <br>
 PgC in Complex Systems Modelling from King's College London.
+
+## Work
+Nearest Neighbour tooling for null infill and data smoothing requirements.
+<br>
+Daily dashboard within Power BI for InLife views of customer data.
+<br>
 
 <br>
 <br>
