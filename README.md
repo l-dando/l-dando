@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=20:e30036,100:0273b9&height=200&text=Luke%20Dando&fontColor=ffffff&animation=fadeIn&fontAlign=74&fontAlignY=25&desc=Data%20Science%20and%20Analytics.&descAlign=66&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=20:e30036,100:0273b9&height=200&text=Luke%20Dando&fontColor=ffffff&animation=fadeIn&fontAlign=74&fontAlignY=25&desc=Geo-Spatial%20Data%20Science%20and%20Analytics.&descAlign=66&descAlignY=44)
 <br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lukedando/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lukedando/)
@@ -13,6 +13,8 @@ PgCert in Complex Systems Modelling from King's College London.
 
 ## Work
 Nearest Neighbour tooling for null infill and data smoothing requirements.
+<br>
+Location-based feature score creation pipeline
 <br>
 Daily dashboard within Power BI for InLife views of customer data.
 <br>
